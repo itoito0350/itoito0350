@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre] - Desarrolladora  
+# 👋 ¡Hola! Soy Milagros  
 
 💻 **Desarrolladora | Apasionada por la tecnología, UX y Machine Learning**  
 
