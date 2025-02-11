@@ -21,5 +21,6 @@
 
 
 💬 **¡Conéctate conmigo!**  
-📧 Email: `itoito035@gmail.com`  
+📧 Email: `itoito035@gmail.com` 
+🔗 [Kaggle](https://www.kaggle.com/milagrosangulo)
 
