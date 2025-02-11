@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="images/tu_imagen.jpg" alt="Tech" width="250" style="border-radius: 15px; border: 2px solid #ddd;">
+</div>
 # 👋 ¡Hola! Soy Milagros  
 
 💻 **Desarrolladora | Apasionada por la tecnología, UX y Machine Learning**  
