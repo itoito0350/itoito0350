@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="images/tu_imagen.jpg](https://github.com/itoito0350/itoito0350/blob/main/tech-one.png" alt="Tech" width="250" style="border-radius: 15px; border: 2px solid #ddd;">
-</div>
+
 # 👋 ¡Hola! Soy Milagros  
 
 💻 **Desarrolladora | Apasionada por la tecnología, UX y Machine Learning**  
@@ -24,6 +22,7 @@
 
 
 💬 **¡Conéctate conmigo!**  
-📧 Email: `itoito035@gmail.com` 
-🔗 [Kaggle](https://www.kaggle.com/milagrosangulo)
+[![Gmail](https://img.shields.io/badge/Gmail-007396?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itoito035@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/milagrosangulo)
+
 
