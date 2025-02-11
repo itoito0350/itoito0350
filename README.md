@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/tu_imagen.jpg" alt="Tech" width="250" style="border-radius: 15px; border: 2px solid #ddd;">
+  <img src="images/tu_imagen.jpg](https://github.com/itoito0350/itoito0350/blob/main/tech-one.png" alt="Tech" width="250" style="border-radius: 15px; border: 2px solid #ddd;">
 </div>
 # 👋 ¡Hola! Soy Milagros  
 
