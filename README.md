@@ -1,7 +1,14 @@
 
-# 👋 ¡Hola! Soy Milagros  
+<div>
+  <img src="https://github.com/itoito0350/itoito0350/blob/main/tab.gif" alt="Imagen 1" width="250" style="border-radius: 15px; border: 2px solid #ddd; margin-left: 20px; margin-right: 10px;">
+  <img src="https://github.com/itoito0350/itoito0350/blob/main/pc.gif" alt="Imagen 2" width="250" style="border-radius: 15px; border: 2px solid #ddd;">
+</div>
 
-💻 **Desarrolladora | Apasionada por la tecnología, UX y Machine Learning**  
+---
+
+# 👋 ¡Hola! 
+
+💻 **Desarrolladora de Aplicaciones Multiplataforma | Apasionada por la tecnología, UX y Machine Learning**  
 
 ## 🚀 Tecnologías y Herramientas:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
